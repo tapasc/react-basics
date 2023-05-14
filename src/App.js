@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div>
       <div>Main App</div>
-      <Header />
+      <Header name={"Elon musk"} />
       <Footer />
       <Component1 />
       <Component2 />
